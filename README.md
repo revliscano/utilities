@@ -9,3 +9,6 @@ Scripts that I have made and used for different purposes
 
 # os Functions
 - Module containing functions based on the `os` module. 
+
+# Get Object Functions
+- It's a function that receives an object as its argument, and returns a list containing all of the methods (including static and class methods) of the object.
