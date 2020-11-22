@@ -12,3 +12,6 @@ Scripts that I have made and used for different purposes
 
 # Get Object Functions
 - It's a function that receives an object as its argument, and returns a list containing all of the methods (including static and class methods) defined in the object's class.
+
+# Dictionaries recursive update
+- This recursive function allows you to update values in nested dictionaries.
